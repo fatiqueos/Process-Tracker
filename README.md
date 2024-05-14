@@ -1,4 +1,4 @@
-# Process Tracker
+# Process Tracker (Süreç İzleyici)
 
 Bu Python betiği, çalışan işlemleri izleyen bir arka plan uygulamasıdır. Ana amacı, bilgisayarınızda çalışan işlemleri belirlemek ve kapatılan veya yeni başlatılan işlemleri tespit ederek bu bilgileri bir Discord kanalına bildirmektir.
 
