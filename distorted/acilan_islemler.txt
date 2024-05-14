@@ -1,0 +1,8 @@
+Uygulama Adi: sppsvc.exe
+Yolu: C:\Windows\System32\sppsvc.exe
+Tarih/Saat: Tue May 14 19:05:45 2024
+
+Uygulama Adi: RuntimeBroker.exe
+Yolu: C:\Windows\System32\RuntimeBroker.exe
+Tarih/Saat: Tue May 14 19:05:45 2024
+

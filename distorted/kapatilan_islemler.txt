@@ -1,0 +1,4 @@
+Uygulama Adi: taskhostw.exe
+Yolu: C:\Windows\System32\taskhostw.exe
+Tarih/Saat: Tue May 14 19:05:44 2024
+
