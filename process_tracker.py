@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # Discord Webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1225692830052388926/lmUu6bnVrYonXpfMB7MAQq-7L_c7BfXbnF9QvnkG0yvpYhu9pKjUqbP_FfjC-t8GZwto'
+WEBHOOK_URL = 'URL'
 
 def get_running_processes():
     running_processes = []
